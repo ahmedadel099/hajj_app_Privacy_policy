@@ -8,31 +8,23 @@ To enhance your experience with our Service, we may collect certain personally i
 * Name
 * Email address
 * Gender
-* Location (including real-time location during Hajj season)
 * Pictures
 * Travel information
 * Passport details
 * Emergency contact information
 * Health information (where relevant for Hajj services)
-* Hajj-specific data (e.g., participation in rituals, locations visited, and navigation directions)
+* Hajj-specific preferences (e.g., participation in rituals or preferred routes)
 
-This information is retained and used as described in this policy to facilitate your Hajj experience, including navigation, safety, and coordination during the Hajj season. The app uses third-party services that may collect information to identify you, such as mapping or analytics providers, to support these features.
+This information is retained and used to facilitate your Hajj experience, such as providing guidance for Hajj rituals, coordinating with groups, or ensuring safety. The app provides location and direction information for Hajj sites (e.g., Arafat, Mina, Kaaba) and nearby facilities without tracking your location. The app may use third-party services (e.g., for mapping or analytics), but these services do not collect or process location data or track user movements.
 
 ## Cookies
-Cookies are small data files used as anonymous unique identifiers, sent to your browser or stored on your device’s internal memory. This Service does not explicitly use cookies. However, third-party code and libraries may use cookies to collect information and improve their services. You can accept or refuse these cookies and will be notified when a cookie is sent. Refusing cookies may limit access to some features of the Service.
+Cookies are small data files used as anonymous unique identifiers, sent to your browser or stored on your device’s internal memory. This Service does not explicitly use cookies. However, third-party code and libraries may use cookies to collect non-identifying information and improve their services. You can accept or refuse these cookies and will be notified when a cookie is sent. Refusing cookies may limit access to some features of the Service.
 
 ## Location Information
-We collect location information, including real-time data from your mobile device, to provide Hajj-specific services, such as:
-* Navigating to Hajj ritual sites (e.g., Arafat, Mina, Kaaba)
-* Providing directions to nearby facilities and services
-* Locating group members during Hajj rituals
-* Offering emergency assistance
-* Tracking movement for safety and coordination during Hajj season
-
-Location data is collected only with your explicit consent and used solely for the purposes listed above. We do not store location data beyond the Hajj season unless required for safety or legal compliance.
+Hajj App does not collect or track location information from your device. Instead, the app provides static or user-initiated information about Hajj ritual sites, directions, and nearby facilities (e.g., hospitals, accommodations) to support your Hajj experience. This information is accessed without requiring real-time or background location data from your device.
 
 ## Device Information
-We may collect device information to enhance service quality and prevent fraud. This information does not identify individual users and is used to ensure the app functions effectively.
+We may collect limited device information to enhance service quality and prevent fraud. This information does not identify individual users and is not used for tracking purposes.
 
 ## Service Providers
 We engage third-party companies and individuals to:
@@ -41,7 +33,7 @@ We engage third-party companies and individuals to:
 * Perform Service-related tasks (e.g., mapping, analytics)
 * Analyze Service usage
 
-These third parties may access your Personal Information to perform assigned tasks but are obligated not to disclose or use it for other purposes. For example, location data may be shared with mapping providers to deliver navigation services or with emergency services for safety purposes.
+These third parties may access your Personal Information to perform assigned tasks but are obligated not to disclose or use it for other purposes. No location tracking data is shared with third parties, as the app does not collect such data.
 
 ## Security
 We prioritize protecting your Personal Information using commercially acceptable methods. However, no internet transmission or electronic storage is 100% secure, and we cannot guarantee absolute security.
@@ -50,7 +42,7 @@ We prioritize protecting your Personal Information using commercially acceptable
 This Service is not intended for individuals under 13. We do not knowingly collect personal information from children under 13. If we discover such information has been provided, we will delete it immediately. Parents or guardians aware of such instances should contact us.
 
 ## Religious Data Privacy
-Hajj App respects the sensitive nature of religious data. Information related to your participation in Hajj rituals, preferences, or movements during Hajj is collected solely to enhance your Hajj experience (e.g., navigation, coordination, or safety). This data is not used for marketing or shared with unaffiliated third parties without your explicit consent.
+Hajj App respects the sensitive nature of religious data. Information related to your participation in Hajj rituals or preferences is collected solely to enhance your Hajj experience (e.g., providing ritual guidance or route suggestions). This data is not used for marketing or shared with unaffiliated third parties without your explicit consent.
 
 ## International Data Transfer
 As Hajj occurs in Saudi Arabia, your information may be transferred to and processed on servers located outside your jurisdiction, where data protection laws may differ. By providing information, you consent to its transfer to and processing in Saudi Arabia for Hajj-related purposes.
